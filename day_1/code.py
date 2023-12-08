@@ -1,6 +1,6 @@
 import os
 
-with open('day_1/input.txt','r') as f_in:
+with open('input.txt','r') as f_in:
     data = f_in.read()
     
 lines = data.split('\n')[:-1]
