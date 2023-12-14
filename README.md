@@ -18,6 +18,8 @@ Each day's challenge is solved in a separate Jupyter Notebook:
 - `Day 10`: [Link to Day 10 Notebook](day_10/day10.ipynb)
 - `Day 11`: [Link to Day 11 Notebook](day_11/day11.ipynb)
 - `Day 12`: [Link to Day 12 Notebook](day_12/day12.ipynb)
+- `Day 13`: [Link to Day 13 Notebook](day_13/day13.ipynb)
+- `Day 14`: [Link to Day 14 Notebook](day_14/day14.ipynb)
 
 ## Running the Solutions
 
