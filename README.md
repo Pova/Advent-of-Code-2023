@@ -30,7 +30,7 @@ Each day's challenge is solved in a separate Jupyter Notebook:
 - `Day 22`: [Link to Day 22 Notebook](day_22/day22.ipynb)
 - `Day 23`: [Link to Day 23 Notebook](day_23/day23.ipynb)
 - `Day 24`: [Link to Day 24 Notebook](day_24/day24.ipynb)
-- <s>`Day 25`: [Link to Day 25 Notebook](day_25/day25.ipynb)</s>
+- `Day 25`: [Link to Day 25 Notebook](day_25/day25.ipynb)
 
 
 ## Running the Solutions
